@@ -12,7 +12,7 @@ const MSalah = {
             css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            php: ["Laravel", "Codeigniter"]
+            php: ["Laravel", "Codeigniter"],
             js: ["Express"],
         },
         databases: ["mongo", "MySql", "sqlite"],
