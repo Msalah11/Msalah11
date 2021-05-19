@@ -8,17 +8,17 @@ const MSalah = {
     technologies: {
         mobileApp: ["Ionic Framework"],
         frontEnd: {
-            js: ["Angular", "React"],
-            css: ["materialize", "bootstrap"]
+            js: ["Angular"],
+            css: ["Tailwind", "Bootstrap"]
         },
         backEnd: {
-            php: ["Laravel"]
-            js: ["node", "express", "adonisjs"],
+            php: ["Laravel", "Codeigniter"]
+            js: ["Express"],
         },
         databases: ["mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Socket.IO"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
-    currentProject: "I am Full Stack Developer @BeInMedia",
+    currentProject: "I am Full Stack Developer",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
