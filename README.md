@@ -10,6 +10,6 @@ const MSalah = {
         databases: ["MySQL", "MongoDB",],
     },
     architecture: ["Serverless Architecture", "Microservices Architecture", "Monolithic Architecture"],
-    currentProject: "I am Full Stack Developer",
+    currentPosition: "I am technical lead @Crossworkers",
     funFact: "There are two ways to write error-free programs; only the third one works"
 };
