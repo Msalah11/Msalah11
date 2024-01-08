@@ -3,8 +3,8 @@
 ```javascript
 const MSalah = {
     technologies: {
-        frontEnd: ["Angular", "VueJs", "Ionic Framework"],
-        backEnd: ["Laravel", "Codeigniter", "Node.js"],
+        frontEnd: ["VueJs", "React"],
+        backEnd: ["Laravel", "Express.js"],
         devOps: ["Docker", "Jenkins", "CI/CD"],
         databases: ["MySQL", "MongoDB",],
     },
