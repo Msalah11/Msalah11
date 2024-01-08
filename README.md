@@ -2,7 +2,6 @@
 
 ```javascript
 const MSalah = {
-    pronouns: "He" | "Him",
     technologies: {
         frontEnd: ["Angular", "VueJs", "Ionic Framework"],
         backEnd: ["Laravel", "Codeigniter", "Node.js"],
