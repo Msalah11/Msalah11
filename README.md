@@ -3,10 +3,12 @@
 ```javascript
 const MSalah = {
     technologies: {
-        frontEnd: ["VueJs", "React"],
         backEnd: ["Laravel", "Express.js"],
+        frontEnd: ["VueJs", "React"],
         devOps: ["Docker", "Jenkins", "CI/CD"],
-        databases: ["MySQL", "MongoDB",],
+        databases: ["MySQL", "MongoDB", "Redis", "Firebase"],
+        testing: ["Jest", "PHPUnit"],
     },
-    architecture: ["Serverless Architecture", "Microservices Architecture", "Monolithic Architecture"],
+    architecture: ["Microservices Architecture", "Monolithic Architecture", "Serverless Architecture"],
+    otherSkills: ["Agile Development", "Scrum", "RESTful APIs", "GraphQL"],
 };
