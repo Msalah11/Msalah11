@@ -4,7 +4,7 @@
 const MSalah = {
     technologies: {
         backEnd: ["Laravel", "Express.js"],
-        frontEnd: ["VueJs", "React"],
+        frontEnd: ["VueJs", "React", "Next.js"],
         devOps: ["Docker", "Jenkins", "CI/CD"],
         databases: ["MySQL", "MongoDB", "Redis", "Firebase"],
         testing: ["Jest", "PHPUnit"],
